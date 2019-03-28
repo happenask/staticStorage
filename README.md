@@ -1,0 +1,2 @@
+# staticStorage
+content storage
